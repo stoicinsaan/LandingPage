@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       I’m a developer, HARSHIT CHAUHAN, WHO IS CREATING THIS SITE FOR TIME PASS
-      AND DEPLOY.
+      AND DEPLOY This.
     subtitle: >-
       This is my time pass site it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
